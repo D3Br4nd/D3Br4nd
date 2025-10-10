@@ -31,7 +31,7 @@ Professionista IT specializzato in automazione, cloud computing, sicurezza conta
 
 ## Contatti
 - LinkedIn: [https://www.linkedin.com/in/cesare-brandini/](https://www.linkedin.com/in/cesare-brandini/)
-- GitHub: [https://github.com/cesarebrandini](https://github.com/cesarebrandini) (da aggiornare con il tuo username)
+- GitHub: [https://github.com/D3Br4nd]([https://github.com/cesarebrandini](https://github.com/D3Br4nd))
 
 ---
 
