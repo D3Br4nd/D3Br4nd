@@ -1,39 +1,39 @@
-# Cesare Brandini - Skills e Curriculum IT
+# Cesare Brandini
 
-## Profilo Professionale
-Professionista IT specializzato in automazione, cloud computing, sicurezza containerizzata e tecnologie edge. Forte esperienza nell'uso di strumenti moderni come N8N, modelli di intelligenza artificiale (LLM, ML, RAG) e soluzioni IoT. Appassionato di DevOps con consolidata competenza in Docker, Kubernetes e gestione infrastruttura cloud AWS e Azure.
+**Italiano** · [English](https://github.com/D3Br4nd/D3Br4nd/blob/main/README.en.md)
 
-## Esperienze IT Attuali
-- Progettazione e implementazione di workflow di automazione avanzata con N8N.
-- Sviluppo e gestione di architetture cloud basate su AWS e Microsoft Azure.
-- Implementazione di piattaforme Kubernetes con SUSE Rancher per ambienti di produzione.
-- Sicurezza containerizzata con SUSE NeuVector.
-- Integrazione e gestione di soluzioni IoT e edge computing in ambienti distribuiti.
-- Utilizzo di prodotti Tibco per orchestrazione dati e applicazioni aziendali.
+**Cloud Infrastructure · AI Engineering · DevOps**
 
-## Certificazioni
-- SUSE Certified Administrator in Rancher Extension [SUSE Rancher](https://www.suse.com/product-certification/suse-certified/rancher-extension/)
-- SUSE Certified Administrator in SUSE NeuVector 5 [SUSE NeuVector](https://www.suse.com/training/exam/sca-neuvector5/)
-- AWS Certified Solutions Architect (o altra certificazione AWS conseguita)
-- Microsoft Certified: Azure Fundamentals (o altra certificazione Azure conseguita)
+Progetto infrastrutture cloud e porto in produzione piattaforme di AI generativa **on-premise e ibride**. Lavoro sull’intero percorso, dalla scelta dell’architettura al rilascio, con attenzione a sicurezza, costi operativi e manutenibilità. Con **DeBrand Studio** mi occupo anche di sviluppo full stack, modernizzazione di applicazioni e integrazione dell’AI nei processi aziendali.
 
-## Competenze Tecniche
+[LinkedIn](https://www.linkedin.com/in/cesare-brandini/) · [DeBrand Studio](https://www.debrandstudio.it/)
 
-| Area              | Competenze principali                                         |
-|-------------------|--------------------------------------------------------------|
-| Automazione       | N8N workflow automation, scripting, process orchestration     |
-| Cloud             | AWS (EC2, Lambda, S3...), Azure Cloud Services                |
-| Containerization  | Docker, Kubernetes, SUSE Rancher                              |
-| Sicurezza         | SUSE NeuVector, sicurezza container e microservizi          |
-| AI & ML           | Utilizzo di modelli LLM, machine learning, retrieval-augmented generation (RAG) |
-| IoT & Edge        | Implementazione soluzioni IoT, edge computing                 |
-| Integrazione dati | Prodotti Tibco per integrazione e orchestrazione dei dati     |
+## Competenze tecniche
 
-## Contatti
-- LinkedIn: [https://www.linkedin.com/in/cesare-brandini/](https://www.linkedin.com/in/cesare-brandini/)
-- GitHub: [https://github.com/cesarebrandini](https://github.com/D3Br4nd)
+| Area | Su cosa lavoro |
+| --- | --- |
+| **Infrastrutture cloud e ibride** | AWS e Azure, ambienti on-premise, containerizzazione con Docker, orchestrazione con Kubernetes e SUSE Rancher |
+| **AI generativa e RAG** | Integrazione di LLM, assistenti sui documenti aziendali con riferimenti alle fonti e deployment in ambienti on-premise e ibridi |
+| **DevOps e sicurezza** | Pipeline CI/CD, automazione dei rilasci, gestione degli ambienti di produzione e sicurezza dei container con SUSE NeuVector |
+| **Sviluppo e integrazione** | Next.js, WordPress headless, workflow con n8n e integrazione di dati e applicazioni con TIBCO |
 
----
+Tra le certificazioni conseguite, **SCDS in SUSE Rancher and Kubernetes Distributions**, **AWS Certified Cloud Practitioner** e **TCP – TIBCO BusinessWorks Container Edition**. [Profilo LinkedIn](https://www.linkedin.com/in/cesare-brandini/)
 
-*Pagina creata per mostrare competenze e professione IT con focus su automazione, cloud e tecnologie containerizzate.*
+## Come lavoro
 
+- **Analisi e problem solving.** Scompongo i problemi complessi, chiarisco i vincoli e confronto le opzioni prima di scegliere un’architettura.
+- **Comunicazione e collaborazione.** Con i team tecnici discuto le scelte nel dettaglio. Con chi prende le decisioni spiego cosa comportano per tempi, costi e gestione.
+- **Responsabilità operativa.** Seguo le soluzioni fino alla produzione e tengo conto fin dall’inizio di come il team potrà gestirle e farle evolvere.
+
+## Progetti in evidenza
+
+- **CER Irpinia Sannio.** Da un fork open source a due applicazioni in produzione, tra cui una piattaforma WebGIS. [Case study](https://www.debrandstudio.it/case-study/cer-irpinia-sannio)
+- **Studio Pizzano.** Piattaforma editoriale fiscale su WordPress, con tema e plugin su misura e un’infrastruttura Docker dietro reverse proxy. [Case study](https://www.debrandstudio.it/case-study/studio-pizzano)
+- **Directing Creative Work.** Una Agent Skill open source che aiuta gli assistenti AI a esplorare più direzioni creative a partire da un brief. [Repository GitHub](https://github.com/D3Br4nd/Directing-Creative-Work)
+
+## Libri e riconoscimenti
+
+- ***Norvèntu. Storie di silicio e venti di cambiamento*** · Officine Pindariche, 2026. Nella Sardegna degli anni Sessanta, una fabbrica di calcolatrici tenta il salto verso l’informatica. Il romanzo ha vinto il **1° premio per la Narrativa Inedita al 42° Premio Letterario “Città di Cava de’ Tirreni”**. [Amazon](https://www.amazon.it/dp/B0HRD6FMCL) · [Premio L’Iride](https://www.irideartecultura.it/premio-letterario/)
+- ***Algoritmo di Salvezza: Risveglio del Sistema*** · Primo volume de *L’Ultimo Paladino*. Un dark LitRPG ambientato in una Roma post-apocalittica, dove ogni miracolo costa punti vita. [Amazon Kindle](https://www.amazon.it/dp/B0GQ9VY2KW)
+
+[DeBrand Publishing](https://www.debrandstudio.it/publishing) · [Facebook](https://www.facebook.com/MaxBrandini78)
