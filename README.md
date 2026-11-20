@@ -29,7 +29,11 @@ Tra le certificazioni conseguite, **SCDS in SUSE Rancher and Kubernetes Distribu
 
 - **CER Irpinia Sannio.** Da un fork open source a due applicazioni in produzione, tra cui una piattaforma WebGIS. [Case study](https://www.debrandstudio.it/case-study/cer-irpinia-sannio)
 - **Studio Pizzano.** Piattaforma editoriale fiscale su WordPress, con tema e plugin su misura e un’infrastruttura Docker dietro reverse proxy. [Case study](https://www.debrandstudio.it/case-study/studio-pizzano)
-- **Directing Creative Work.** Una Agent Skill open source che aiuta gli assistenti AI a esplorare più direzioni creative a partire da un brief. [Repository GitHub](https://github.com/D3Br4nd/Directing-Creative-Work)
+
+## Agent Skill open source
+
+- **Directing Creative Work.** Aiuta gli agenti AI a esplorare e confrontare più direzioni creative a partire da un brief. [Repository GitHub](https://github.com/D3Br4nd/Directing-Creative-Work)
+- **Skill-Creator.** Trasforma attività ricorrenti in Agent Skill riutilizzabili, con esempi, un validatore locale e casi di test. [Repository GitHub](https://github.com/D3Br4nd/Skill-Creator)
 
 ## Libri e riconoscimenti
 
