@@ -35,5 +35,6 @@ Selected credentials I’ve earned include **SCDS in SUSE Rancher and Kubernetes
 
 - ***Norvèntu. Storie di silicio e venti di cambiamento*** · Officine Pindariche, 2026. In 1960s Sardinia, a calculator factory attempts the leap into computing. The novel won **first prize for unpublished fiction at the 42nd “Città di Cava de’ Tirreni” Literary Award**. [Amazon](https://www.amazon.it/dp/B0HRD6FMCL) · [Award website](https://www.irideartecultura.it/premio-letterario/)
 - ***Algoritmo di Salvezza: Risveglio del Sistema*** · The first book in *L’Ultimo Paladino*, a dark LitRPG series set in post-apocalyptic Rome, where each miracle costs hit points. [Amazon Kindle](https://www.amazon.it/dp/B0GQ9VY2KW)
+- ***Level 44 – A Tactical Family GameLit Comedy*** · A gamer mom picks up the wrong takeout order. Inside is a military AI prototype that sends her entire family on the run through the Italian Apennines. [Read on Royal Road](https://www.royalroad.com/fiction/158374/level-44-a-tactical-family-gamelit-comedy)
 
 [DeBrand Publishing](https://www.debrandstudio.it/publishing) · [Facebook](https://www.facebook.com/MaxBrandini78)
