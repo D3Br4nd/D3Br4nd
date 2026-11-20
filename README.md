@@ -35,5 +35,6 @@ Tra le certificazioni conseguite, **SCDS in SUSE Rancher and Kubernetes Distribu
 
 - ***Norvèntu. Storie di silicio e venti di cambiamento*** · Officine Pindariche, 2026. Nella Sardegna degli anni Sessanta, una fabbrica di calcolatrici tenta il salto verso l’informatica. Il romanzo ha vinto il **1° premio per la Narrativa Inedita al 42° Premio Letterario “Città di Cava de’ Tirreni”**. [Amazon](https://www.amazon.it/dp/B0HRD6FMCL) · [Premio L’Iride](https://www.irideartecultura.it/premio-letterario/)
 - ***Algoritmo di Salvezza: Risveglio del Sistema*** · Primo volume de *L’Ultimo Paladino*. Un dark LitRPG ambientato in una Roma post-apocalittica, dove ogni miracolo costa punti vita. [Amazon Kindle](https://www.amazon.it/dp/B0GQ9VY2KW)
+- ***Level 44 – A Tactical Family GameLit Comedy*** · Una madre gamer ritira la cena d’asporto sbagliata. Nella busta trova un prototipo di IA militare che mette tutta la famiglia in fuga per gli Appennini. [Leggi in inglese su Royal Road](https://www.royalroad.com/fiction/158374/level-44-a-tactical-family-gamelit-comedy)
 
 [DeBrand Publishing](https://www.debrandstudio.it/publishing) · [Facebook](https://www.facebook.com/MaxBrandini78)
