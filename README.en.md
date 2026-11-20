@@ -6,7 +6,7 @@
 
 I design cloud infrastructure and bring **on-premises and hybrid generative AI platforms** into production. I work from architecture through deployment, paying close attention to security, operating costs, and maintainability. Through **DeBrand Studio**, I also build full-stack applications, modernize existing systems, and integrate AI into business workflows.
 
-[LinkedIn](https://www.linkedin.com/in/cesare-brandini/) · [DeBrand Studio](https://www.debrandstudio.it/)
+[LinkedIn](https://www.linkedin.com/in/cesare-brandini/) · [DeBrand Studio](https://www.debrandstudio.it/) · [Medium](https://medium.com/@cesare.brandini)
 
 ## Technical skills
 
