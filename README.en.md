@@ -29,7 +29,11 @@ Selected credentials I’ve earned include **SCDS in SUSE Rancher and Kubernetes
 
 - **CER Irpinia Sannio.** From an open-source fork to two production applications, including a web GIS platform. [Case study in Italian](https://www.debrandstudio.it/case-study/cer-irpinia-sannio)
 - **Studio Pizzano.** A WordPress publishing platform for tax news, with a custom theme and plugins running on Docker behind a reverse proxy. [Case study in Italian](https://www.debrandstudio.it/case-study/studio-pizzano)
-- **Directing Creative Work.** An open-source agent skill that helps AI assistants explore several creative directions from a brief. [GitHub repository](https://github.com/D3Br4nd/Directing-Creative-Work)
+
+## Open-source agent skills
+
+- **Directing Creative Work.** Helps AI agents explore and compare creative directions based on a brief. [GitHub repository](https://github.com/D3Br4nd/Directing-Creative-Work)
+- **Skill-Creator.** Turns recurring tasks into reusable agent skills with examples, a local validator, and test cases. [GitHub repository](https://github.com/D3Br4nd/Skill-Creator)
 
 ## Books and awards
 
