@@ -6,7 +6,7 @@
 
 Progetto infrastrutture cloud e porto in produzione piattaforme di AI generativa **on-premise e ibride**. Lavoro sull’intero percorso, dalla scelta dell’architettura al rilascio, con attenzione a sicurezza, costi operativi e manutenibilità. Con **DeBrand Studio** mi occupo anche di sviluppo full stack, modernizzazione di applicazioni e integrazione dell’AI nei processi aziendali.
 
-[LinkedIn](https://www.linkedin.com/in/cesare-brandini/) · [DeBrand Studio](https://www.debrandstudio.it/)
+[LinkedIn](https://www.linkedin.com/in/cesare-brandini/) · [DeBrand Studio](https://www.debrandstudio.it/) · [Medium](https://medium.com/@cesare.brandini)
 
 ## Competenze tecniche
 
